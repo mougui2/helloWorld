@@ -6,6 +6,11 @@
   <name>devops-b3</name>
   <description>coucou</description>
   
+  <properties>
+  	<maven.compiler.sources>7</maven.compiler.sources>
+  	<maven.compiler.target>1.7</maven.compiler.target>
+  </properties>
+  
   <dependencies>
   <dependency>
     <groupId>junit</groupId>
